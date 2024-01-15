@@ -12,3 +12,6 @@
 # tutorial03
 * 在windows下使用`_CrtSetDbgFlag(_CRTDBG_ALLOC_MEM_DF | _CRTDBG_LEAK_CHECK_DF);`检测内存泄漏 [更多](https://github.com/miloyip/json-tutorial/blob/master/tutorial03_answer/tutorial03_answer.md)
 * 在SSE4.2指令集中，可以使用硬件优化效率 [更多](https://zhuanlan.zhihu.com/p/20037058)
+
+# tutorial04
+* 赋值表达式的返回值为赋值符号右边的值
